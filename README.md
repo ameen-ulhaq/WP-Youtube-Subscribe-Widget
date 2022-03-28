@@ -1,1 +1,1 @@
-"# WP Youtube Subscribe Widget" 
+# WP Youtube Subscribe Widget
